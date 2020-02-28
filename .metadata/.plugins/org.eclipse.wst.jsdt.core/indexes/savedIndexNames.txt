@@ -1,7 +1,10 @@
 INDEX VERSION 1.4+D:\italo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-767287307.index
-2881633784.index
-1776697876.index
+3202416048.index
+3005274434.index
+1775670997.index
 833188455.index
-2664868008.index
-2044403966.index
+2812687871.index
+48962680.index
+3684302642.index
+1136743430.index
+4174198053.index

@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\italo\\web-service-exercicio-soap\\.git;
-GitRepositoriesView.GitDirectories.relative=web-service-exercicio-soap\\.git;
+GitRepositoriesView.GitDirectories=D\:\\italo\\web-service-exercicio-soap\\.git;D\:\\italo\\.git;
+GitRepositoriesView.GitDirectories.relative=web-service-exercicio-soap\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

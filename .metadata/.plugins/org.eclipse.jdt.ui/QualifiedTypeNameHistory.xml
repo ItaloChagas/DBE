@@ -4,4 +4,5 @@
 <fullyQualifiedTypeName name="br.com.fiap.estoque.EstoqueBasicoStub.Soma"/>
 <fullyQualifiedTypeName name="br.com.fiap.estoque.EstoqueBasicoStub.SomaResponse"/>
 <fullyQualifiedTypeName name="org.apache.axis2.AxisFault"/>
+<fullyQualifiedTypeName name="br.com.fiap.produto.TipoProduto"/>
 </qualifiedTypeNameHistroy>
