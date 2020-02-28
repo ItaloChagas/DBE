@@ -1,0 +1,18 @@
+package br.com.fiap.estoque;
+
+public class ConsultaBasica {
+
+	public static void main(String[] args) {
+
+		try {
+			
+			EstoqueBasicoStub = new EstoqueBasicoStub();
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		
+	}
+
+}

@@ -1,0 +1,24 @@
+package br.com.fiap.estoque;
+
+import br.com.fiap.estoque.EstoqueBasicoStub.Soma;
+
+public class ConsultaBasica {
+
+	public static void main(String[] args) {
+
+		try {
+			
+			EstoqueBasicoStub ebs = new EstoqueBasicoStub();
+			
+			Soma soma = new Soma();
+			soma.setNr1(2);
+			soma.setNr2(10);
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		
+	}
+
+}

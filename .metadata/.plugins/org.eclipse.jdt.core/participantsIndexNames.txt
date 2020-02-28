@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\237713017.index
+\ExemploWs\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2664868008.index
+\ExemploWsClient\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2044403966.index
+\ExemploWsClient\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\767287307.index
+\ExemploWsClient\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2881633784.index
+\ExemploWsClient\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2774211599.index
+\ExemploWs\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3762575983.index
+\ExemploWs\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2302783666.index
+\ExemploWs\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\122278457.index
+\ExemploWs\src
+D:\italo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1776697876.index
+\ExemploWsClient\src
